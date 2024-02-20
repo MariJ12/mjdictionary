@@ -1,4 +1,4 @@
-import mwebb from "./mwebb.jpg";
+import mweb from "./mweb.jpg";
 import "./App.css";
 import Dictionary from "./Dictionary";
 
@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <img src={mwebb} className="Mwebb-logo img-fluid" alt="mwebblogo" />
+          <img src={mweb} className="Mweb-logo img-fluid" alt="mweblogo" />
         </header>
         <main>
           <Dictionary />
