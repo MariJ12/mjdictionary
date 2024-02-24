@@ -9,6 +9,9 @@ export default function App() {
         <header className="App-header">
           <img src={mweb} className="Mweb-logo img-fluid" alt="mweblogo" />
         </header>
+        <div>
+          <h1 className="headerH">Dictionary</h1>
+        </div>
         <main>
           <Dictionary />
         </main>
