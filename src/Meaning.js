@@ -6,9 +6,12 @@ export default function Meaning(props) {
   if (props.meaning) {
     return (
       <div className="Meaning">
-        <h3>{props.meaning.partOfSpeech}</h3>
-        <p>{props.meaning.definition}</p>
-        <em>{props.meaning.example}</em>
+        <h4>{props.meaning.partOfSpeech}</h4>
+        <br />
+        <h3 className="Definition">Definition:</h3>
+        <p>{props.meaning.definitions[0].definition}</p>
+        <em>{props.meaning.definitions[0].example}</em>
+
         <Synonyms synonyms={props.meaning.synonyms} />
       </div>
     );
