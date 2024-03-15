@@ -1,7 +1,7 @@
 import React from "react";
 
 export default function Synonyms(props) {
-  if (props.synonyms) {
+  if (props.synonyms[0]) {
     return (
       <section className="Synonyms">
         <strong>Synonyms:</strong>
