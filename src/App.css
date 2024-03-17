@@ -3,15 +3,10 @@ body {
 }
 
 .App-header {
-  margin: 20px 0;
-  background: rgb(38, 47, 16);
+  margin: 50px 200px;
+  display: block;
 }
 
-.Mweb-logo {
-  max-width: 500px;
-  display: block;
-  margin: 0 auto;
-}
 .headerH {
   display: block;
   margin: 50px auto;
