@@ -16,7 +16,9 @@ export default function App() {
           <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="text-center">
-          <small>Coded by MJ</small>
+          <small>
+            Coded by MJ <a href="https://github.com/MariJ12/mjdictionary">👩🏽‍💻</a>
+          </small>
         </footer>
       </div>
     </div>
