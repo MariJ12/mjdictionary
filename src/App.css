@@ -3,8 +3,8 @@ body {
 }
 
 .App-header {
-  margin: 50px 200px;
-  display: block;
+  margin: 50px auto;
+  display: inline-block;
 }
 
 .headerH {
@@ -16,4 +16,7 @@ body {
 }
 main {
   margin: 0 auto;
+}
+.MLogo {
+  margin: 10px 200px;
 }
