@@ -13,7 +13,7 @@ export default function App() {
           <h1 className="headerH">Dictionary</h1>
         </div>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="text-center">
           <small>Coded by MJ</small>

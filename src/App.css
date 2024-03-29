@@ -11,6 +11,9 @@ body {
   display: block;
   margin: 50px auto;
   text-align: center;
-  letter-spacing: 5px;
-  color: rgb(168, 22, 22);
+  letter-spacing: 50px;
+  color: rgb(165, 6, 6);
+}
+main {
+  margin: 0 auto;
 }

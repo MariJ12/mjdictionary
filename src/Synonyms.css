@@ -1,0 +1,4 @@
+.Synonyms li {
+  list-style: circle;
+  list-style-position: outside;
+}

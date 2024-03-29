@@ -16,8 +16,15 @@
   margin-right: 15px;
   font-size: 14px;
   line-height: 17px;
-  padding: 8px 18px;
-  border: 1px solid #dddddd;
+  padding: 8px 20px;
+  background-color: white;
   border-radius: 50px;
   text-decoration: none;
+  transition: all 150ms ease-in-out;
+}
+.Phonetic a:hover {
+  background: rgb(239, 238, 238);
+}
+.Phonetic .text {
+  opacity: 0.7;
 }
