@@ -3,20 +3,20 @@ body {
 }
 
 .App-header {
-  margin: 50px auto;
-  display: inline-block;
+  margin: 0px auto;
 }
 
 .headerH {
   display: block;
   margin: 50px auto;
   text-align: center;
-  letter-spacing: 50px;
+  letter-spacing: 40px;
   color: rgb(165, 6, 6);
 }
 main {
   margin: 0 auto;
 }
 .MLogo {
-  margin: 10px 200px;
+  margin: 10px auto;
+  display: flex;
 }
