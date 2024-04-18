@@ -17,7 +17,8 @@ export default function App() {
         </main>
         <footer className="text-center">
           <small>
-            Coded by MJ <a href="https://github.com/MariJ12/mjdictionary">👩🏽‍💻</a>
+            Coded by MJ <a href="https://github.com/MariJ12/mjdictionary">👩🏽‍💻</a>{" "}
+            <a href="https://mwebb-dictionary.netlify.app/"> Netlify</a>
           </small>
         </footer>
       </div>
